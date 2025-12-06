@@ -18,6 +18,6 @@ metadata:
   tags: ["java", "quarkus", "sscs", "sbom", "acs"] 
 spec:
   type: service
-  owner: user:guest 
+  owner: user:default/pmalan@redhat.com
   lifecycle: experimental
  
